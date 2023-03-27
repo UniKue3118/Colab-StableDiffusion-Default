@@ -1,0 +1,3 @@
+masterpiece, best quality,house,cyberpunk
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts,signature, watermark, username, blurry, artist name, (nsfw:1.3)
+Steps: 60, Sampler: Euler a, CFG scale: 12, Seed: 1669355066, Size: 1000x774, Model hash: 89d59c3dde, Model: animefull-final-pruned, Denoising strength: 0.75, Mask blur: 4
